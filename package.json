@@ -1,0 +1,36 @@
+{
+  "name": "mods-config",
+  "version": "0.0.1",
+  "description": "mods-config is a simple config module for mods",
+  "author": {
+    "name": "Shockk",
+    "email": "shokku.ra@gmail.com",
+    "url": "https://github.com/shockkolate/"
+  },
+  "contributors": [
+    {
+      "name": "Shockk",
+      "email": "shokku.ra@gmail.com",
+      "url": "https://github.com/shockkolate/"
+    }
+  ],
+  "keywords": [
+    "config",
+    "conf",
+    "configure",
+    "simple",
+    "mods",
+    "mod",
+    "modules",
+    "module",
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shockkolate/mods-config.git"
+  },
+  "license": "Apache-2.0",
+  "main": "index",
+  "engines": {
+    "node": ">=0.8"
+  }
+}
